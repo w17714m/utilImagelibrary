@@ -34,7 +34,7 @@ var library = {
 
     },
     ocra:function(){
-        
+        alert('test');
     }
     
 
