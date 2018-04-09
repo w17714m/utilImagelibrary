@@ -1,0 +1,34 @@
+{
+  "name": "@jwilli0508/wjcq_lib_util",
+  "version": "0.1.0",
+  "description": "Util js",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter nyan",
+    "start": "gulp server"
+  },
+  "author": "jwilli0508",
+  "license": "ISC",
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "dependencies": {
+    "browserify": "^16.1.1",
+    "cheerio": "^1.0.0-rc.2",
+    "compress.js": "^1.1.2",
+    "gulp-copy": "^1.1.0",
+    "gulp-run-command": "0.0.9",
+    "gulp-watch": "^5.0.0",
+    "image-compressor": "^1.2.0",
+    "jquery": "^3.3.1",
+    "store": "^2.0.12",
+    "vinyl-source-stream": "^2.0.0",
+    "watchify": "^3.11.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "chai": "^4.1.2",
+    "gulp": "^3.9.1",
+    "mocha": "^5.0.5"
+  }
+}
