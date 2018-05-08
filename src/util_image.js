@@ -1,6 +1,4 @@
-/**
- * @author William Cubillos <jwilli0508@gmail.com>
- */
+
 
 const Compress = require('compress.js');
 var $ = require('jquery');
